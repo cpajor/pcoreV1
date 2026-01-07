@@ -1,0 +1,6 @@
+name: cpPcore
+version: r6-LF
+main: com.github.cPajor.pcore.CReg
+api-version: 1.20
+author: cPajor
+depend: [cpWebAPI]
